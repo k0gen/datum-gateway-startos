@@ -71,7 +71,7 @@ health-checks:
     inject: true
   blocknotify:
     name: Bitcoind Blocknotify Setting
-    success-message: blocknotify set correctly.
+    success-message: Blocknotify set correctly.
     type: docker
     image: main
     system: false
